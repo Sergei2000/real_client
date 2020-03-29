@@ -11,7 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8958b11c-e303-47a8-a17a-d5eea330ef73" name="Default Changelist" comment="" />
+    <list default="true" id="8958b11c-e303-47a8-a17a-d5eea330ef73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/client.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/client" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +28,14 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YWtQWTqBx4u7MikLXhP6MLdAep" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled1" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,7 +50,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="client" TARGET_NAME="client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="client" RUN_TARGET_NAME="client">
+    <configuration name="client" type="CMakeRunConfiguration" factoryName="Application" singleton="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="client" TARGET_NAME="client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="client" RUN_TARGET_NAME="client">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -85,10 +95,29 @@
       <workItem from="1584293796097" duration="42000" />
       <workItem from="1584298559349" duration="45000" />
       <workItem from="1584355080042" duration="247000" />
+      <workItem from="1585237451171" duration="798000" />
+      <workItem from="1585327556451" duration="3310000" />
+      <workItem from="1585332832606" duration="6477000" />
+      <workItem from="1585339371522" duration="8643000" />
+      <workItem from="1585378773819" duration="13505000" />
+      <workItem from="1585468899364" duration="711000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
